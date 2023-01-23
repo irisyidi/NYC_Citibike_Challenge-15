@@ -73,18 +73,18 @@ This line chart shows the user picture by gender and birth year. For male user, 
 
 ## Summary
 
-### high level summary of result 
+### High Level Summary of Result 
 
 The number of usage of bikes has close connection with age, gender and work. Generally speaking, people use sharing bikes for short distance commutte and people intend to pay for the subscriptions which means that sharing bikes have stable customer bases. 
 
 
-### two additional visiualizations for future analysis 
+### Two Additional Visiualizations for Future Analysis 
 
-- Top end station
+- Top End Station
 
 Top end station can be sorted by number of bikese used because it is easy for people to transfer the bikes to top start station. 
 
-- stoptime by gender and user type 
+- Stoptime by Gender and User type 
 
 The stoptime can be analyzed by filtering for different gender and user type because these time period is useful for company to repair the bikes and rearrange bikes to the places where bikes are most needed. 
 
